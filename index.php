@@ -5,7 +5,7 @@
 <body>
 
     <div class="container mw-50">
-      <h2 class="my-3 ">LOGINS</h2>
+      <h2 class="my-3 ">LOGINSS</h2>
         <form class="my-5 mw-50" action="includes/login.inc.php" method = "post">
             <div class="mb-3">
             <label for="exampleInputEmail1" class="form-label">Username</label>
